@@ -1,6 +1,6 @@
 {
-  "name": "basic-ui",
-  "version": "0.0.0",
+  "name": "lzx-varlet-components",
+  "version": "1.0.0-alpha.1663815914250",
   "description": "A basic components library",
   "main": "lib/index.js",
   "module": "es/index.js",

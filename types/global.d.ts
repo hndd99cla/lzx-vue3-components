@@ -1,6 +1,6 @@
 declare module 'vue' {
   export interface GlobalComponents {
-    BLocale: typeof import('basic-ui')['_LocaleComponent']
+    BLocale: typeof import('lzx-varlet-components')['_LocaleComponent']
   }
 }
 
